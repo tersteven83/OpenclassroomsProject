@@ -1,0 +1,16 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+.petal{
+    border:1px solid #000000;
+}
+.p1{
+    display:inline-block;
+
+}
+.p2{
+    border: 3px solid #BB3333;
+    display: inline-block;
+    width:160px;
+}
